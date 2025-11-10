@@ -3,11 +3,11 @@
 int fibonacci(int pos);
 
 int main(void) {
-  int term;
+  int r;
   printf("Please enter the range for fibonacci series: ");
-  scanf("%d", &term);
+  scanf("%d", &r);
 
-  for(int i = 0; i < term; i++) {
+  for(int i = 0; i < r; i++) {
     printf(" %d", fibonacci(i));
   }
   return 0;
