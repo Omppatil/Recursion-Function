@@ -14,6 +14,8 @@ I have practiced and implemented several programs related to functions and recur
 
 -Armstrong Number Checker
 
+-Prime Number Checker
+
 -Sum of digits using recursion
 
 -GCD (Greatest Common Divisor) using recursion
