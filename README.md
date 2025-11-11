@@ -22,7 +22,7 @@ I have practiced and implemented several programs related to functions and recur
 
 -Power of a number using recursion
 
--Reverse of a number using recursion
+-Reverse of a number using recursion / Palindrome Number Checker
 
 
 # About Functions
