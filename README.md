@@ -12,6 +12,8 @@ I have practiced and implemented several programs related to functions and recur
 
 -Fibonacci series using recursion
 
+-Armstrong Number Checker
+
 -Sum of digits using recursion
 
 -GCD (Greatest Common Divisor) using recursion
